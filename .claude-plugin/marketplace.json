@@ -3,12 +3,13 @@
     "name": "deep-decoder-market",
     "displayName": "Deep Decoder Marketplace",
     "description": "Official marketplace for the Deep Decoder forensic skill.",
+    "owner": "bx33661",
+    "contact": "bx33661",
     "plugins": [
         {
             "name": "deep-decoder",
-            "displayName": "Deep Decoder",
             "description": "Recursive decoding and forensic analysis tool.",
-            "source": ".",
+            "source": "./",
             "strict": true
         }
     ]
