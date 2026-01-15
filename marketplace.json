@@ -1,0 +1,34 @@
+{
+    "manifestVersion": "1.0",
+    "name": "deep-decoder",
+    "displayName": "Deep Decoder",
+    "version": "2.0.0",
+    "description": "A powerful recursive decoding skill for Security Researchers, CTF Players, and AI Agents. Automatically peels back layers of obfuscation (Base64, Gzip, Hex, Ciphers) and extracts hidden files (images, archives).",
+    "author": "bx",
+    "license": "MIT",
+    "homepage": "https://github.com/bx33661/Deep-Decoder",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bx33661/Deep-Decoder.git"
+    },
+    "keywords": [
+        "decoder",
+        "crypto",
+        "forensics",
+        "security",
+        "ctf",
+        "base64",
+        "analysis"
+    ],
+    "entryPoint": "scripts/deep_decode.py",
+    "commands": [
+        {
+            "name": "deep-decode",
+            "description": "Analyze and decode a string or file",
+            "usage": "python scripts/deep_decode.py --input <string> --pretty"
+        }
+    ],
+    "requirements": {
+        "python": ">=3.10"
+    }
+}

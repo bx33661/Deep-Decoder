@@ -14,7 +14,7 @@
 
 ##  What is this?
 
-**Deep Decoder** is a specialized skill designed for **Claude** and other AI Agents. It autonomously peels back layers of obfuscation, turning binary garbage into readable text or extracting hidden files.
+**Deep Decoder** is a specialized skill designed for **Security Researchers**, **CTF Players**, and **AI Agents**. It autonomously peels back layers of obfuscation, turning binary garbage into readable text or extracting hidden files.
 
 Instead of guessing "Is this Base64?", simply pass the string to Deep Decoder. It recursively attempts 15+ formats until it finds the truth.
 
