@@ -10,6 +10,22 @@
 
 </div>
 
+[English](README.md) | [中文文档](README_CN.md)
+
+</div>
+
+---
+
+## 🚀 Quick Install (Claude Code)
+
+```bash
+# 1. Add the Marketplace
+/plugin marketplace add github:bx33661/Deep-Decoder
+
+# 2. Install the Skill
+/plugin install deep-decoder@deep-decoder-market
+```
+
 ---
 
 ##  What is this?
