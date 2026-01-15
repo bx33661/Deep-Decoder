@@ -17,5 +17,5 @@
         "base64",
         "analysis"
     ],
-    "skills": "./SKILL.md"
+    "skills": "./skills/"
 }
