@@ -11,9 +11,8 @@
     "plugins": [
         {
             "name": "deep-decoder",
-            "displayName": "Deep Decoder",
             "description": "Recursive decoding and forensic analysis tool.",
-            "source": "https://github.com/bx33661/Deep-Decoder"
+            "source": "./"
         }
     ]
 }
