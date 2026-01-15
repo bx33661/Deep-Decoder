@@ -16,11 +16,11 @@
 
 ---
 
-## 🚀 Quick Install (Claude Code)
+## Quick Install (Claude Code)
 
 ```bash
 # 1. Add the Marketplace
-/plugin marketplace add github:bx33661/Deep-Decoder
+/plugin marketplace add bx33661/Deep-Decoder
 
 # 2. Install the Skill
 /plugin install deep-decoder@deep-decoder-market

@@ -16,11 +16,11 @@
 
 ---
 
-## 🚀 极速安装 (Claude Code)
+## 极速安装 (Claude Code)
 
 ```bash
 # 1. 添加插件市场
-/plugin marketplace add github:bx33661/Deep-Decoder
+/plugin marketplace add bx33661/Deep-Decoder
 
 # 2. 安装 Skill
 /plugin install deep-decoder@deep-decoder-market
