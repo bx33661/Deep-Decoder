@@ -1,0 +1,15 @@
+{
+    "manifestVersion": "1.0",
+    "name": "deep-decoder-market",
+    "displayName": "Deep Decoder Marketplace",
+    "description": "Official marketplace for the Deep Decoder forensic skill.",
+    "plugins": [
+        {
+            "name": "deep-decoder",
+            "displayName": "Deep Decoder",
+            "description": "Recursive decoding and forensic analysis tool.",
+            "source": ".",
+            "strict": true
+        }
+    ]
+}
